@@ -1,0 +1,23 @@
+body {
+	background-image: linear-gradient(to right, red, yellow);
+}
+
+h1 ,h2 {
+	text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  text-transform: uppercase;
+  letter-spacing: 15px;
+	opacity: 0.8;
+	
+}
+.tocent {
+	display: flex;
+	justify-content: center;
+}
+h1 {
+	font-size: 100px;
+}
+h2 {
+	font-size: 30px;
+}
